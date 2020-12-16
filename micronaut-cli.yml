@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: tech.iooo.coco
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, cache-caffeine, data, data-jpa, gradle, hibernate-jpa, hibernate-validator, http-client, java, java-application, jdbc-hikari, junit, log4j2, lombok, mysql, netty-server, properties, reactor, readme, redis-lettuce, shade, spring, spring-boot, spring-data-jpa, spring-web, testcontainers]
